@@ -145,4 +145,4 @@ Made with ❤️ für alle, die sich in der Shell wohlfühlen wollen.
 
 ---
 
-###Created by: sudoAndroed
+### Created by: sudoAndro
