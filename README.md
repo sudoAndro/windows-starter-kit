@@ -139,8 +139,10 @@ Danach ein neues Terminal-Fenster öffnen — das Bootstrap startet automatisch 
 
 ## 📜 Lizenz
 
-MIT — frei verwendbar, anpassbar, weitergeben erlaubt.
+📝 Lizenz MIT License – frei verwendbar und anpassbar.
+
+Made with ❤️ für alle, die sich in der Shell wohlfühlen wollen.
 
 ---
 
-*Teil von [andro-lab](https://github.com/sudoAndro/andro-lab) — Homelab & IT-Tools von Andrija Tadic*
+###Created by: sudoAndroed
